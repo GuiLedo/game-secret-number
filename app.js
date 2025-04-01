@@ -25,7 +25,7 @@ function exibirMsgmInicial() {
     exibirTextoNaTela("p", "Escolha um número entre 1 e 10");
 }
 
-function verificarchute() {
+function verificarChute() {
     let chute = document.querySelector("input").value;
     console.log(chute == numeroSecreto);
     if (chute == numeroSecreto) {
