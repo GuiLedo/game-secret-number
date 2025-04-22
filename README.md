@@ -1,7 +1,7 @@
 ## Autor
 
 <a href="https://www.linkedin.com/in/glc42/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D35AQGAjWY765XX-Q/profile-framedphoto-shrink_200_200/B4DZYA_B9nHsAY-/0/1743773245617?e=1744567200&v=beta&t=sixG1E_92T_aKd2MYtxmDFZNeFYBSITF9x47EGBH-h0" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D35AQGAjWY765XX-Q/profile-framedphoto-shrink_200_200/B4DZYA_B9nHsAY-/0/1743773245617?e=1745888400&v=beta&t=JewgZh_nRt_ivAD7Fn2ytcNVCeWgz7dyRJpOhIULleQ" width="100px;" alt=""/>
  <br />
 </a> <a href="https://www.linkedin.com/in/glc42/" title="Guilherme Ledo">Guilherme Ledo</a>
  <br />
